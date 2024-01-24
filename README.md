@@ -1,4 +1,6 @@
-# fix_presenter_note
+from https://gist.github.com/derickfay/74a66652b995a538e08a
+
+# fix_presenter_note.applescript
 
 tell application "Keynote"
 	tell document 1
